@@ -16,7 +16,7 @@ import java.util.*;
  
 public class Millonario {
  
-    //Variables
+    //Variables test
     public static DecimalFormat miformato = new DecimalFormat("###,###,###,###");
     public static int opmenu = 0, aleatorioJuego = 0, respCorrJuego = 0, zonaSegura= 0,
                       nRespJuego = 0, min = 1, maxJuego = 15, confJuego = 0, n = 1,
